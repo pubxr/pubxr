@@ -1,4 +1,4 @@
-### pubxr project is opensource xR social platform for public.
+### pubxr project is an opensource xR social platform prototype for publics.
 
 <!--
 Here are some ideas to get you started:
